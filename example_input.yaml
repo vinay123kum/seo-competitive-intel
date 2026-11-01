@@ -1,0 +1,25 @@
+# Minimal — tool auto-discovers competitors and queries from the website
+prospect_name: Acme
+prospect_url: https://acme.com
+
+# Optional overrides (uncomment to use):
+
+# competitors:
+#   - name: Rival One
+#     domain: rivalone.com
+#   - name: Rival Two
+#     domain: rivaltwo.com
+#   - name: Rival Three
+#     domain: rivalthree.com
+
+# queries:
+#   - best employee engagement software for remote teams
+#   - how to improve team engagement scores
+#   - top HR platforms for mid-market companies
+#   - employee engagement tools alternatives
+
+# Increase wait times if screenshots come back blank:
+# wait_ms:
+#   google: 8000
+#   perplexity: 14000
+#   bing: 10000
